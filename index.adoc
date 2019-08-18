@@ -1,0 +1,7 @@
+= Ghassen Chetioui
+:icons: font
+:nofooter:
+
+icon:envelope[] ghassen.chetioui@gmail.com +
+icon:github[] https://github.com/ghassen-chetioui +
+icon:twitter[] @ghassen_c +
