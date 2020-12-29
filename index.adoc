@@ -2,6 +2,104 @@
 :icons: font
 :nofooter:
 
+icon:phone[] 07 62 37 16 79 +
 icon:envelope[] ghassen.chetioui@gmail.com +
 icon:github[] https://github.com/ghassen-chetioui +
-icon:twitter[] @ghassen_c +
+icon:twitter[] https://twitter.com/ghassen_c[@ghassen_c] +
+
+== Expériences professionnelles
+
+=== Développeur Cloud - Lectra
+icon:calendar[] `Depuis Octobre 2017`::
+Développement d’applications web avec une architecture microservices deployées dans le cloud.
+
+* Conception et développement de microservices orientés messages
+* Tests d'intégartion avec l'outil Karate
+* Développement des interfaces utilisateur avec React
+* Migration Java/Kotlin
+
+Environnement:: Spring Boot, Java 11/Kotlin, RabbitMq, MongoDB, Git, Maven, Docker, Kubernetes, React, Microsoft Azure
+
+=== Développeur Java EE - Lectra
+icon:calendar[] `Septembre 2016-Septembre 2017`::
+Développement d’un gestionnaire de cycle de vie (PLM) des produits dans l’industrie de la mode.
+
+* Développement de services web REST.
+* Maintenance corrective.
+
+Environnement:: Java EE 7, Oracle, WildFly 8, Maven, Jenkins, Git
+
+=== Projet SIMBA - SAFRAN - AKKA
+icon:calendar[] `Juin 2016-Août 2016`::
+Développement d'une application de suivi des mesures de test effectuées sur des moteurs d’aviation.
+
+* Développement de fonctionnalités d’import/export de données.
+* Développement d’une interface de spécification des tests.
+* Maintenance corrective.
+
+Environnement:: Java EE 7, AnglarJS, Oracle, JBoss AS 7, Maven, Jenkins, SVN
+
+=== Projets MEDDE - Ministère de l’Ecologie, du Développement durable et de l’Energie - Atos
+icon:calendar[] `Décembre 2014-Mai 2016`::
+*Projet Aurige:* Application de gestion des examens du code de la route +
+*Projet Cerbère:* Portail d’authentification du système d’information du ministère +
+*Projet Valid:* Application de contrôle des données déclaratives des bateaux de pêche français
+
+* Analyse et conception fonctionnelle et technique.
+* Développement de différent modules d’intégration et de traitement de données.
+* Tests d’intégration
+
+Environnement:: Spring 4, ServiceMix 5.4, Drools, PostgreSQL, Maven, Ant, Tomcat, SVN
+
+=== Projet DEMAFAC - Banque de France - Bull
+icon:calendar[] `Juin 2014-Novembre 2014`::
+Développement d'une application de dématérialisation de factures basée sur la solution logicielle ITESOFT.
+
+* Développement d’un module de traitement de factures.
+* Industrialisation des modules Java.
+* Déploiement sur les plateformes de pré-productions.
+
+Environnement:: Java 6, JScript, SQL Server, Tomcat 6, Maven, Bamboo, SVN
+
+=== Projet AGATE - Conseil Régional d’Aquitaine - Bull
+icon:calendar[] `Juin 2013-Mai 2014`::
+Développement d'une application de géo-sécurisation adaptée au transport d’enfants.
+
+* Analyse et conception technique.
+* Développement de la solution from scratch.
+* Ecadrement des stagiaires.
+
+Environnement:: Java EE 6, Vaadin, Maven, Hudson, JBoss AS 6, PostgreSQL, SVN
+
+=== Projet VisioTrans - Groupe Veolia-Transdev - Bull
+icon:calendar[] `Février 2010-Mai 2013`::
+Développement d'un système d’aide à l’exploitation et d’information des voyageurs permettant le suivi en temps réel
+de l’ensemble de la flotte et le calcul des temps d’attente aux arrêts.
+
+* Analyse et conception technique.
+* Développement du portail web.
+* Développement d’une application embarquée sur les boîtiers GPS.
+* Maintenance évolutive de la solution.
+* Administration de la plateforme de production.
+
+Environnement:: Spring 3, GWT/GXT, Maven, JBoss AS 5, MySQL, Hudson, SVN
+
+== Compétences
+
+Langage :: Java, Kotlin, TypeScript, Groovy, SQL, Shell
+
+Frameworks/Librairies :: Java EE, Spring Boot, Quarkus, React
+
+Architecture :: REST, Microservices, Architecture Hexagonale
+
+Serveurs/Containers/SGBD :: Jboss/Wildfly, Open Liberty, Tomcat, Servicemix, MySQL, PostgreSQL, MongoDB   
+
+Outils :: Maven, Git, SVN, IntelliJ, Eclipse, Jenkins, Sonar, Docker 
+
+== Formations
+
+icon:calendar[] 2007/2010 :: Diplôme d’ingénieur Spécialité Génie Logiciel des Réseaux et des Télécommunications à l'ENSEIRB-MATMECA
+
+icon:calendar[] 2005/2007 :: Classes préparatoires MP à l'Institut Préparatoire aux Etudes Scientifiques et Techniques
+
+icon:calendar[] 2005 :: Baccalauréat Scientifique avec Mention Très Bien
