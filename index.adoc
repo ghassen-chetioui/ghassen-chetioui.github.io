@@ -9,14 +9,22 @@ icon:twitter[] https://twitter.com/ghassen_c[@ghassen_c] +
 
 == Expériences professionnelles
 
+=== Développeur Cloud - Cshield
+icon:calendar[] `Depuis Mai 2021`::
+Développement d'une plateforme de cybersécurité assurant la protection et la résilience des sites Internet
+
+* Développement de services web REST avec l'approche API-first.
+* Industrialisation des composants de la plateforme.
+
+Environnement:: JHipster, Kotlin, MongoDB, Git, Maven, Docker, Nginx, Kubernetes, Microsoft Azure
+
 === Développeur Cloud - Lectra
-icon:calendar[] `Depuis Octobre 2017`::
+icon:calendar[] `Septembre 2017-Avril 2021`::
 Développement d’applications web avec une architecture microservices deployées dans le cloud.
 
-* Conception et développement de microservices orientés messages
-* Tests d'intégartion avec l'outil Karate
-* Développement des interfaces utilisateur avec React
-* Migration Java/Kotlin
+* Conception et développement de microservices orientés messages.
+* Développement des interfaces utilisateur avec React.
+* Migration Java/Kotlin.
 
 Environnement:: Spring Boot, Java 11/Kotlin, RabbitMq, MongoDB, Git, Maven, Docker, Kubernetes, React, Microsoft Azure
 
@@ -47,7 +55,6 @@ icon:calendar[] `Décembre 2014-Mai 2016`::
 
 * Analyse et conception fonctionnelle et technique.
 * Développement de différent modules d’intégration et de traitement de données.
-* Tests d’intégration
 
 Environnement:: Spring 4, ServiceMix 5.4, Drools, PostgreSQL, Maven, Ant, Tomcat, SVN
 
